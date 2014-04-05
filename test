@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://bb47.azurewebsites.net
-            [1] => https://d2m103443naxth.cloudfront.net
+            [0] => https://d2m103443naxth.cloudfront.net
+            [1] => https://bb47.azurewebsites.net
         )
 
     [live_app_version_code] => 2
