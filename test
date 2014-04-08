@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dsdo25xl8s58b.cloudfront.net
-            [1] => https://47f4.azurewebsites.net
+            [0] => https://47f4.azurewebsites.net
+            [1] => https://dsdo25xl8s58b.cloudfront.net
         )
 
     [live_app_version_code] => 2
