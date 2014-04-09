@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://bc9d.azurewebsites.net
-            [1] => https://d33z3ddnysib9p.cloudfront.net
+            [0] => https://d33z3ddnysib9p.cloudfront.net
+            [1] => https://bc9d.azurewebsites.net
         )
 
     [live_app_version_code] => 2
