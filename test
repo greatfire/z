@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dkpofftegviwy.cloudfront.net
-            [1] => https://5f71.azurewebsites.net
+            [0] => https://5f71.azurewebsites.net
+            [1] => https://dkpofftegviwy.cloudfront.net
         )
 
     [live_app_version_code] => 2
