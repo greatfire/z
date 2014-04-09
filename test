@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://e800.azurewebsites.net
-            [1] => https://dibsptfbiigad.cloudfront.net
+            [0] => https://dibsptfbiigad.cloudfront.net
+            [1] => https://e800.azurewebsites.net
         )
 
     [live_app_version_code] => 2
