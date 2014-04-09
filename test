@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://fd23.azurewebsites.net
-            [1] => https://dtz68ds7gffy4.cloudfront.net
+            [0] => https://
+            [1] => https://fd23.azurewebsites.net
         )
 
     [live_app_version_code] => 2
