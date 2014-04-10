@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dhonpieuytppe.cloudfront.net
-            [1] => https://3bf27.azurewebsites.net
+            [0] => https://3d387.azurewebsites.net
+            [1] => https://dhonpieuytppe.cloudfront.net
         )
 
     [live_app_version_code] => 2
