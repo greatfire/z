@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dnwm2c42j21oi.cloudfront.net
-            [1] => https://613e.azurewebsites.net
+            [0] => https://613e.azurewebsites.net
+            [1] => https://dnwm2c42j21oi.cloudfront.net
         )
 
     [live_app_version_code] => 2
