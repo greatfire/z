@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d21mls5eawojep.cloudfront.net
-            [1] => https://d836.azurewebsites.net
+            [0] => https://d836.azurewebsites.net
+            [1] => https://d21mls5eawojep.cloudfront.net
         )
 
     [live_app_version_code] => 2
