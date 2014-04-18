@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://615fd.azurewebsites.net
-            [1] => https://d193ajaonks2kd.cloudfront.net
+            [0] => https://d193ajaonks2kd.cloudfront.net
+            [1] => https://615fd.azurewebsites.net
         )
 
     [live_app_version_code] => 2
