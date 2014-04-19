@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d89a.azurewebsites.net
-            [1] => https://dukrcucfagbl8.cloudfront.net
+            [0] => https://dukrcucfagbl8.cloudfront.net
+            [1] => https://d89a.azurewebsites.net
         )
 
     [live_app_version_code] => 2
