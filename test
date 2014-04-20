@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dj2z48gembb6.cloudfront.net
-            [1] => https://71fa.azurewebsites.net
+            [0] => https://71fa.azurewebsites.net
+            [1] => https://dj2z48gembb6.cloudfront.net
         )
 
     [live_app_version_code] => 2
