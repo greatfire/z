@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://ddde90w54kosg.cloudfront.net
-            [1] => https://cc43f.azurewebsites.net
+            [0] => https://cc43f.azurewebsites.net
+            [1] => https://ddde90w54kosg.cloudfront.net
         )
 
     [live_app_version_code] => 2
