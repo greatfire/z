@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://295f.azurewebsites.net
-            [1] => https://dzmcfmz4980va.cloudfront.net
+            [0] => https://dzmcfmz4980va.cloudfront.net
+            [1] => https://295f.azurewebsites.net
         )
 
     [live_app_version_code] => 2
