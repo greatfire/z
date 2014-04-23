@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://djatrxesdjdja.cloudfront.net
-            [1] => https://b747.azurewebsites.net
+            [0] => https://b747.azurewebsites.net
+            [1] => https://djatrxesdjdja.cloudfront.net
         )
 
     [live_app_version_code] => 2
