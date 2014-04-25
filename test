@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dyl7522wpytm9.cloudfront.net
-            [1] => https://147835d.azurewebsites.net
+            [0] => https://685071b.azurewebsites.net
+            [1] => https://dyl7522wpytm9.cloudfront.net
         )
 
     [live_app_version_code] => 2
