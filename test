@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://38639e.azurewebsites.net
-            [1] => https://drk975rhcgrvl.cloudfront.net
+            [0] => https://drk975rhcgrvl.cloudfront.net
+            [1] => https://38639e.azurewebsites.net
         )
 
     [live_app_version_code] => 2
