@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dpic7jfrjemtg.cloudfront.net
-            [1] => https://203c.azurewebsites.net
+            [0] => https://203c.azurewebsites.net
+            [1] => https://dpic7jfrjemtg.cloudfront.net
         )
 
     [live_app_version_code] => 2
