@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://cbfa.azurewebsites.net
-            [1] => https://d4ry44aane43v.cloudfront.net
+            [0] => https://d4ry44aane43v.cloudfront.net
+            [1] => https://cbfa.azurewebsites.net
         )
 
     [live_app_version_code] => 2
