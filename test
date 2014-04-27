@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://feecf.azurewebsites.net
-            [1] => https://d1e49dgquekz8i.cloudfront.net
+            [0] => https://d1e49dgquekz8i.cloudfront.net
+            [1] => https://feecf.azurewebsites.net
         )
 
     [live_app_version_code] => 2
