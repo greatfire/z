@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://deolwv41gf5z.cloudfront.net
-            [1] => https://2073c.azurewebsites.net
+            [0] => https://2073c.azurewebsites.net
+            [1] => https://deolwv41gf5z.cloudfront.net
         )
 
     [live_app_version_code] => 2
