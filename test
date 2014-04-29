@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dixpy6slhtme2.cloudfront.net
-            [1] => https://eddc0.azurewebsites.net
+            [0] => https://eddc0.azurewebsites.net
+            [1] => https://dixpy6slhtme2.cloudfront.net
         )
 
     [live_app_version_code] => 2
