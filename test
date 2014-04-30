@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://574a.azurewebsites.net
-            [1] => https://d3gaf792cp1chi.cloudfront.net
+            [0] => https://d3gaf792cp1chi.cloudfront.net
+            [1] => https://574a.azurewebsites.net
         )
 
     [live_app_version_code] => 2
