@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://663e.azurewebsites.net
-            [1] => https://dvszir1u6buru.cloudfront.net
+            [0] => https://dvszir1u6buru.cloudfront.net
+            [1] => https://663e.azurewebsites.net
         )
 
     [live_app_version_code] => 2
