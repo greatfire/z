@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://3d8d.azurewebsites.net
-            [1] => https://das842zg3m3xa.cloudfront.net
+            [0] => https://das842zg3m3xa.cloudfront.net
+            [1] => https://3d8d.azurewebsites.net
         )
 
     [live_app_version_code] => 2
