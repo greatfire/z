@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://bbf18.azurewebsites.net
-            [1] => https://d1gibt77ukwshq.cloudfront.net
+            [0] => https://d1gibt77ukwshq.cloudfront.net
+            [1] => https://bbf18.azurewebsites.net
         )
 
     [live_app_version_code] => 2
