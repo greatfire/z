@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dmxkma767udos.cloudfront.net
-            [1] => https://2fd62.azurewebsites.net
+            [0] => https://2fd62.azurewebsites.net
+            [1] => https://dmxkma767udos.cloudfront.net
         )
 
     [live_app_version_code] => 2
