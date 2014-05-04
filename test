@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dvaybaeelew6z.cloudfront.net
-            [1] => https://8d21e.azurewebsites.net
+            [0] => https://8d21e.azurewebsites.net
+            [1] => https://dvaybaeelew6z.cloudfront.net
         )
 
     [live_app_version_code] => 2
