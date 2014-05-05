@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dk1736fnsoofa.cloudfront.net
-            [1] => https://756d.azurewebsites.net
+            [0] => https://756d.azurewebsites.net
+            [1] => https://dk1736fnsoofa.cloudfront.net
         )
 
     [live_app_version_code] => 2
