@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dn96ravyennx1.cloudfront.net
-            [1] => https://e1064.azurewebsites.net
+            [0] => https://6f6b.azurewebsites.net
+            [1] => https://dn96ravyennx1.cloudfront.net
         )
 
     [live_app_version_code] => 2
