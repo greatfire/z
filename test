@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dzwgnhd8beaby.cloudfront.net
-            [1] => https://bed8d.azurewebsites.net
+            [0] => https://bed8d.azurewebsites.net
+            [1] => https://dzwgnhd8beaby.cloudfront.net
         )
 
     [live_app_version_code] => 2
