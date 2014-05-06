@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dtk8rjktbvg87.cloudfront.net
-            [1] => https://f3da.azurewebsites.net
+            [0] => https://f3da.azurewebsites.net
+            [1] => https://dtk8rjktbvg87.cloudfront.net
         )
 
     [live_app_version_code] => 2
