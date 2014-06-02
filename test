@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d15c1.azurewebsites.net
-            [1] => https://dyaduwowce6vn.cloudfront.net
+            [0] => https://dyaduwowce6vn.cloudfront.net
+            [1] => https://d15c1.azurewebsites.net
         )
 
     [live_app_version_code] => 2
