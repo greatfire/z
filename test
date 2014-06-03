@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://efdad8.azurewebsites.net
-            [1] => https://d3sxhiz5ni6ocb.cloudfront.net
+            [0] => https://d3sxhiz5ni6ocb.cloudfront.net
+            [1] => https://efdad8.azurewebsites.net
         )
 
     [live_app_version_code] => 2
