@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://136fc.azurewebsites.net
-            [1] => https://dfompd480rxdm.cloudfront.net
+            [0] => https://dfompd480rxdm.cloudfront.net
+            [1] => https://136fc.azurewebsites.net
         )
 
     [live_app_version_code] => 2
