@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://c629f.azurewebsites.net
-            [1] => https://dny2ibt64d8u.cloudfront.net
+            [0] => https://dny2ibt64d8u.cloudfront.net
+            [1] => https://c629f.azurewebsites.net
         )
 
     [live_app_version_code] => 2
