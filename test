@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://e82b.azurewebsites.net
-            [1] => https://d19adlmyp4umuj.cloudfront.net
+            [0] => https://d19adlmyp4umuj.cloudfront.net
+            [1] => https://e82b.azurewebsites.net
         )
 
     [live_app_version_code] => 2
