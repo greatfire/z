@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dsqy5x24pipsg.cloudfront.net
-            [1] => https://9728c.azurewebsites.net
+            [0] => https://9728c.azurewebsites.net
+            [1] => https://dsqy5x24pipsg.cloudfront.net
         )
 
     [live_app_version_code] => 2
