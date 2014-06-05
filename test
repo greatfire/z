@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://damv0m4ghfhq2.cloudfront.net
-            [1] => https://3d20a.azurewebsites.net
+            [0] => https://3d20a.azurewebsites.net
+            [1] => https://damv0m4ghfhq2.cloudfront.net
         )
 
     [live_app_version_code] => 2
