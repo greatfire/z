@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://demcdkokv4clp.cloudfront.net
-            [1] => https://9515f.azurewebsites.net
+            [0] => https://5eaa19.azurewebsites.net
+            [1] => https://demcdkokv4clp.cloudfront.net
         )
 
     [live_app_version_code] => 2
