@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dobn3b738ga5l.cloudfront.net
-            [1] => https://cf7d.azurewebsites.net
+            [0] => https://cf7d.azurewebsites.net
+            [1] => https://dobn3b738ga5l.cloudfront.net
         )
 
     [live_app_version_code] => 2
