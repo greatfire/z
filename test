@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://e6dc.azurewebsites.net
-            [1] => https://dzrpmewhozcm0.cloudfront.net
+            [0] => https://dzrpmewhozcm0.cloudfront.net
+            [1] => https://e6dc.azurewebsites.net
         )
 
     [live_app_version_code] => 2
