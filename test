@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://29fc.azurewebsites.net
-            [1] => https://dory20menmkd7.cloudfront.net
+            [0] => https://dory20menmkd7.cloudfront.net
+            [1] => https://29fc.azurewebsites.net
         )
 
     [live_app_version_code] => 2
