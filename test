@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://badbf.azurewebsites.net
-            [1] => https://d3mky5zk1wwjo9.cloudfront.net
+            [0] => https://d3mky5zk1wwjo9.cloudfront.net
+            [1] => https://badbf.azurewebsites.net
         )
 
     [live_app_version_code] => 2
