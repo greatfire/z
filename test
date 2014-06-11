@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dvx87eckoc94p.cloudfront.net
-            [1] => https://77d929.azurewebsites.net
+            [0] => https://77d929.azurewebsites.net
+            [1] => https://dvx87eckoc94p.cloudfront.net
         )
 
     [live_app_version_code] => 2
