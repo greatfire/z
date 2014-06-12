@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d25sjdepc60gta.cloudfront.net
-            [1] => https://97197e.azurewebsites.net
+            [0] => https://97197e.azurewebsites.net
+            [1] => https://d25sjdepc60gta.cloudfront.net
         )
 
     [live_app_version_code] => 2
