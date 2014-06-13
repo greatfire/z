@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dgw4420dv8065.cloudfront.net
-            [1] => https://394644c.azurewebsites.net
+            [0] => https://394644c.azurewebsites.net
+            [1] => https://dgw4420dv8065.cloudfront.net
         )
 
     [live_app_version_code] => 2
