@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dlrtzohnhrms1.cloudfront.net
-            [1] => https://d801.azurewebsites.net
+            [0] => https://c49a3.azurewebsites.net
+            [1] => https://dlrtzohnhrms1.cloudfront.net
         )
 
     [live_app_version_code] => 2
