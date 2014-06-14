@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://7f2b.azurewebsites.net
-            [1] => https://d20e30zfnix29w.cloudfront.net
+            [0] => https://d20e30zfnix29w.cloudfront.net
+            [1] => https://7f2b.azurewebsites.net
         )
 
     [live_app_version_code] => 2
