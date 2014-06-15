@@ -2,7 +2,7 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://f0ad.azurewebsites.net
+            [0] => https://01533b.azurewebsites.net
             [1] => https://d1eucg0699kvvl.cloudfront.net
         )
 
