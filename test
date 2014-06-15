@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dgypbqs76kw.cloudfront.net
-            [1] => https://7bbc1.azurewebsites.net
+            [0] => https://bea4.azurewebsites.net
+            [1] => https://dgypbqs76kw.cloudfront.net
         )
 
     [live_app_version_code] => 2
