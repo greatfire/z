@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d18lcap06gmvbe.cloudfront.net
-            [1] => https://65aea.azurewebsites.net
+            [0] => https://65aea.azurewebsites.net
+            [1] => https://d18lcap06gmvbe.cloudfront.net
         )
 
     [live_app_version_code] => 2
