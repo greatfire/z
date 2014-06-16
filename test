@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d2rono24v9x14m.cloudfront.net
-            [1] => https://e3dcb.azurewebsites.net
+            [0] => https://e3dcb.azurewebsites.net
+            [1] => https://d2rono24v9x14m.cloudfront.net
         )
 
     [live_app_version_code] => 2
