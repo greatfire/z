@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d5d22.azurewebsites.net
-            [1] => https://d1ledmg24yijgb.cloudfront.net
+            [0] => https://d1ledmg24yijgb.cloudfront.net
+            [1] => https://d5d22.azurewebsites.net
         )
 
     [live_app_version_code] => 2
