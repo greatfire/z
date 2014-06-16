@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d2wh75b70dfxrv.cloudfront.net
-            [1] => https://faed84.azurewebsites.net
+            [0] => https://faed84.azurewebsites.net
+            [1] => https://d2wh75b70dfxrv.cloudfront.net
         )
 
     [live_app_version_code] => 2
