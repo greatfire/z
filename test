@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://32d4.azurewebsites.net
-            [1] => https://djag3yir0pmti.cloudfront.net
+            [0] => https://djag3yir0pmti.cloudfront.net
+            [1] => https://32d4.azurewebsites.net
         )
 
     [live_app_version_code] => 2
