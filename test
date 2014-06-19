@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://83054307d.azurewebsites.net
-            [1] => https://dbdvaun2782dm.cloudfront.net
+            [0] => https://dbdvaun2782dm.cloudfront.net
+            [1] => https://83054307d.azurewebsites.net
         )
 
     [live_app_version_code] => 2
