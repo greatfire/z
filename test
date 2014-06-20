@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://44a03.azurewebsites.net
-            [1] => https://d1vapl632np4mk.cloudfront.net
+            [0] => https://d1vapl632np4mk.cloudfront.net
+            [1] => https://44a03.azurewebsites.net
         )
 
     [live_app_version_code] => 2
