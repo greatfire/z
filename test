@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d1ksh0akw5urq5.cloudfront.net
-            [1] => https://caec.azurewebsites.net
+            [0] => https://caec.azurewebsites.net
+            [1] => https://d1ksh0akw5urq5.cloudfront.net
         )
 
     [live_app_version_code] => 2
