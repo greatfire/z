@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://debavd5lygmhh.cloudfront.net
-            [1] => https://018b1.azurewebsites.net
+            [0] => https://018b1.azurewebsites.net
+            [1] => https://debavd5lygmhh.cloudfront.net
         )
 
     [live_app_version_code] => 2
