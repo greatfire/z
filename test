@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dkxlktmtgl82z.cloudfront.net
-            [1] => https://7d3c3.azurewebsites.net
+            [0] => https://7d3c3.azurewebsites.net
+            [1] => https://dkxlktmtgl82z.cloudfront.net
         )
 
     [live_app_version_code] => 2
