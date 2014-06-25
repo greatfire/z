@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://40b8de.azurewebsites.net
-            [1] => https://drqo9rbrjppm0.cloudfront.net
+            [0] => https://drqo9rbrjppm0.cloudfront.net
+            [1] => https://40b8de.azurewebsites.net
         )
 
     [live_app_version_code] => 2
