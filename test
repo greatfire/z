@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dtumtpodsfmdu.cloudfront.net
-            [1] => https://f0834.azurewebsites.net
+            [0] => https://f0834.azurewebsites.net
+            [1] => https://dtumtpodsfmdu.cloudfront.net
         )
 
     [live_app_version_code] => 2
