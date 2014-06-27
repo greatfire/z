@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://1af3d.azurewebsites.net
-            [1] => https://d1fwpcgle33ims.cloudfront.net
+            [0] => https://d1fwpcgle33ims.cloudfront.net
+            [1] => https://1af3d.azurewebsites.net
         )
 
     [live_app_version_code] => 2
