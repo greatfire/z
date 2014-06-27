@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://beb57.azurewebsites.net
-            [1] => https://d2t2fqzkrjbyeb.cloudfront.net
+            [0] => https://d2t2fqzkrjbyeb.cloudfront.net
+            [1] => https://beb57.azurewebsites.net
         )
 
     [live_app_version_code] => 2
