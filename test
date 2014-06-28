@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d5109.azurewebsites.net
-            [1] => https://dbnpty9yhcub5.cloudfront.net
+            [0] => https://dbnpty9yhcub5.cloudfront.net
+            [1] => https://d5109.azurewebsites.net
         )
 
     [live_app_version_code] => 2
