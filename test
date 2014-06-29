@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dnzypasdhpvr9.cloudfront.net
-            [1] => https://7d23.azurewebsites.net
+            [0] => https://7d23.azurewebsites.net
+            [1] => https://dnzypasdhpvr9.cloudfront.net
         )
 
     [live_app_version_code] => 2
