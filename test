@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d3megpcla536u.cloudfront.net
-            [1] => https://4d9c7.azurewebsites.net
+            [0] => https://
+            [1] => https://d3megpcla536u.cloudfront.net
         )
 
     [live_app_version_code] => 2
