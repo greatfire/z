@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://dnelby2jtl1zw.cloudfront.net
-            [1] => https://5dda.azurewebsites.net
+            [0] => https://5dda.azurewebsites.net
+            [1] => https://dnelby2jtl1zw.cloudfront.net
         )
 
     [live_app_version_code] => 2
