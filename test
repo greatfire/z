@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://ec212.azurewebsites.net
-            [1] => https://d2drmedfzn57v4.cloudfront.net
+            [0] => https://d2drmedfzn57v4.cloudfront.net
+            [1] => https://ec212.azurewebsites.net
         )
 
     [live_app_version_code] => 2
