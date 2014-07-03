@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://cbde.azurewebsites.net
-            [1] => https://dratem15lknfb.cloudfront.net
+            [0] => https://dratem15lknfb.cloudfront.net
+            [1] => https://cbde.azurewebsites.net
         )
 
     [live_app_version_code] => 2
