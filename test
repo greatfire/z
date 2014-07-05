@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d17tein43561ro.cloudfront.net
-            [1] => https://0445e.azurewebsites.net
+            [0] => https://0445e.azurewebsites.net
+            [1] => https://d17tein43561ro.cloudfront.net
         )
 
     [live_app_version_code] => 2
