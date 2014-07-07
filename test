@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://deg43xxjitesa.cloudfront.net
-            [1] => https://1d50.azurewebsites.net
+            [0] => https://1d50.azurewebsites.net
+            [1] => https://deg43xxjitesa.cloudfront.net
         )
 
     [live_app_version_code] => 2
