@@ -2,8 +2,8 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://f028f.azurewebsites.net
-            [1] => https://d21nozunqarkbu.cloudfront.net
+            [0] => https://d21nozunqarkbu.cloudfront.net
+            [1] => https://f028f.azurewebsites.net
         )
 
     [live_app_version_code] => 2
