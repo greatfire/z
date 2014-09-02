@@ -2,10 +2,11 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://d3u6a1seuyd3r3.cloudfront.net
-            [1] => https://ff97.azurewebsites.net
+            [0] => https://d704e.azurewebsites.net
+            [1] => https://dv8cnw6yu570m.cloudfront.net
         )
 
-    [live_app_version_code] => 2
-    [live_app_url] => https://s3.amazonaws.com/_._/FreeWeibo1.1.apk
+    [live_app_version_code] => 3
+    [live_app_url] => https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/mob/PaoPaoAndroid1.2.apk
+    [main_url] => https://pao-pao.net
 )
