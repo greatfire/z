@@ -1,12 +1,1 @@
-Array
-(
-    [proxy_urls] => Array
-        (
-            [0] => https://d704e.azurewebsites.net
-            [1] => https://dv8cnw6yu570m.cloudfront.net
-        )
-
-    [live_app_version_code] => 3
-    [live_app_url] => https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/mob/PaoPaoAndroid1.2.apk
-    [main_url] => https://pao-pao.net
-)
+github_callback(["https:\/\/d3059gkikm7ixv.cloudfront.net\/full\/demo\/","https:\/\/d3u4seijlqumgj.cloudfront.net\/full\/demo\/"])
