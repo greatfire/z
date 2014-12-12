@@ -1,1 +1,40 @@
-github_callback(["https:\/\/d3059gkikm7ixv.cloudfront.net\/full\/demo\/","https:\/\/d3u4seijlqumgj.cloudfront.net\/full\/demo\/"]);
+Array
+(
+    [proxy_urls] => Array
+        (
+            [0] => https://e4a62.azurewebsites.net
+            [1] => https://djf4z53xlwisf.cloudfront.net
+        )
+
+    [live_app_version_code] => 5
+    [live_app_url] => https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid1.4.apk
+    [main_url] => http://chinadigitaltimes-appweb.greatfire.org
+    [rss_url] => http://chinadigitaltimes.net/chinese/category/level-2-article/feed/
+    [hosts] => Array
+        (
+            [e4a62.azurewebsites.net] => Array
+                (
+                    [0] => 65.52.168.70
+                )
+
+            [djf4z53xlwisf.cloudfront.net] => Array
+                (
+                    [0] => 54.230.17.33
+                    [1] => 54.230.17.105
+                    [2] => 54.230.18.99
+                    [3] => 54.230.19.95
+                    [4] => 54.230.19.200
+                    [5] => 54.230.16.18
+                    [6] => 54.230.16.62
+                    [7] => 54.230.16.185
+                )
+
+        )
+
+    [hosts_to_proxy] => Array
+        (
+            [0] => googleapis.com
+            [1] => *.googleapis.com
+        )
+
+)
