@@ -2,31 +2,31 @@ Array
 (
     [proxy_urls] => Array
         (
-            [0] => https://e4a62.azurewebsites.net
-            [1] => https://djf4z53xlwisf.cloudfront.net
+            [0] => https://f09f.azurewebsites.net
+            [1] => https://dv8cnw6yu570m.cloudfront.net
         )
 
-    [live_app_version_code] => 5
-    [live_app_url] => https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid1.4.apk
-    [main_url] => http://chinadigitaltimes-appweb.greatfire.org
-    [rss_url] => http://chinadigitaltimes.net/chinese/category/level-2-article/feed/
+    [live_app_version_code] => 7
+    [live_app_url] => https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid1.5.apk
+    [main_url] => https://pao-pao.net
+    [rss_url] => https://pao-pao.net/rss.xml
     [hosts] => Array
         (
-            [e4a62.azurewebsites.net] => Array
+            [f09f.azurewebsites.net] => Array
                 (
                     [0] => 65.52.168.70
                 )
 
-            [djf4z53xlwisf.cloudfront.net] => Array
+            [dv8cnw6yu570m.cloudfront.net] => Array
                 (
-                    [0] => 54.230.194.76
-                    [1] => 54.230.194.126
-                    [2] => 54.230.194.133
-                    [3] => 54.230.194.150
-                    [4] => 54.230.194.182
-                    [5] => 54.192.192.113
-                    [6] => 54.230.192.131
-                    [7] => 54.230.193.225
+                    [0] => 54.192.193.15
+                    [1] => 54.230.192.71
+                    [2] => 54.230.192.198
+                    [3] => 54.230.194.76
+                    [4] => 54.230.194.150
+                    [5] => 54.239.152.46
+                    [6] => 54.239.152.188
+                    [7] => 54.192.192.120
                 )
 
         )
